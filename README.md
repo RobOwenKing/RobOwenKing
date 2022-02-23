@@ -1,10 +1,17 @@
-## Hi! I'm [Rob Owen King](http://www.robowenking.com/)
+# Hi! I'm [Rob Owen King](http://www.robowenking.com/)
 
 ### Programmer, Polyglot, Puzzle Fan
 
 Maths at Oxford > Teacher and translator in Spain > Full-stack web dev
 
-#### I love
+### I'm currently...
+
+- 👨‍💻 Working on: [Twenty-Eight](http://twenty-eight.robowenking.com/), your daily numbers puzzle game
+- 🌱 Learning: As much as I can
+- 📚 Reading: The World As It Is, by Ben Rhodes, and Men at Arms, by Terry Pratchett
+- 👨‍🍳 Cooking: [Yuxiang](https://en.wikipedia.org/wiki/Yuxiang) aubergine and experimenting with some biscuit recipes
+
+### I love
 
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -15,17 +22,22 @@ Maths at Oxford > Teacher and translator in Spain > Full-stack web dev
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 <br />
 
-#### Talk to me in
-
-### 🇬🇧 🇦🇩 🇪🇸 🇫🇷 🇨🇳 🇵🇱 🇩🇪
+### Talk to me in 🇬🇧 🇦🇩 🇪🇸 🇫🇷 🇨🇳 🇵🇱 🇩🇪
 
 That's English, Catalan, Spanish and French which I speak well; Mandarin Chinese, Polish and German which I'm still working on.
 
-#### Contact me
+### My best puzzle so far
+
+Was probably [this one](https://youtu.be/_0YUlMPmD0w?t=135). "Gorgeous, absolutely gorgeous", "good grief, this is really clever" and "such a pleasure to solve" is just some of what Simon Anthony said to his 400k+ Youtube followers about it. And if you liked that one, [here's another](https://youtu.be/wqA1M-fCe3s?t=120) that Mark Goodliffe tackled on the same channel.
+
+### Contact me
+
 [<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="padding-right: 10px;" />][website]
 [<img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-right: 10px;" />][twitter]
 [<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-right: 10px;" />][linkedin]
+<br />
 
+Especially if you're looking to hire a junior anywhere around Birmingham, the West Midlands, Warwickshire, or similar.
 
 [website]: http://www.robowenking.com/
 [twitter]: https://twitter.com/RobOwenKing
