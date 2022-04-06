@@ -7,11 +7,11 @@ Maths at Oxford > Teacher and translator in Spain > Full-stack web dev
 ### I'm currently...
 
 - 👨‍💻 Working on: [Twenty-Eight](http://twenty-eight.robowenking.com/), your daily numbers puzzle game
-- 🌱 Learning: As much as I can
-- 📚 Reading: The World As It Is, by Ben Rhodes, and Men at Arms, by Terry Pratchett
+- 🌱 Learning: React Native, CUBE CSS, graph data structures...
+- 📚 Reading: The World As It Is, by Ben Rhodes; The Truth, by Terry Pratchett
 - 👨‍🍳 Cooking: [Yuxiang](https://en.wikipedia.org/wiki/Yuxiang) aubergine and experimenting with some biscuit recipes
 
-### I love
+### I love...
 
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -22,11 +22,15 @@ Maths at Oxford > Teacher and translator in Spain > Full-stack web dev
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 <br />
 
-### Talk to me in 🇬🇧 🇦🇩 🇪🇸 🇫🇷 🇨🇳 🇵🇱 🇩🇪
+### Talk to me in...
 
+- 🦅 English - Native
+- 🕊️ Catalan, Spanish - Advanced
+- 🐦 French - Strong Intermediate
+- 🐤 Mandarin Chinese, Polish, German - Beginner to Low Intermediate
 That's English, Catalan, Spanish and French which I speak well; Mandarin Chinese, Polish and German which I'm still working on.
 
-### My best puzzle so far
+### My best puzzle so far...
 
 Was probably [this one](https://youtu.be/_0YUlMPmD0w?t=135). "Gorgeous, absolutely gorgeous", "good grief, this is really clever" and "such a pleasure to solve" is just some of what Simon Anthony said to his 400k+ Youtube followers about it. And if you liked that one, [here's another](https://youtu.be/wqA1M-fCe3s?t=120) that Mark Goodliffe tackled on the same channel.
 
