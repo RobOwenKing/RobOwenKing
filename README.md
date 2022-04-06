@@ -28,7 +28,6 @@ Maths at Oxford > Teacher and translator in Spain > Full-stack web dev
 - 🕊️ Catalan, Spanish - Advanced
 - 🐦 French - Strong Intermediate
 - 🐤 Mandarin Chinese, Polish, German - Beginner to Low Intermediate
-That's English, Catalan, Spanish and French which I speak well; Mandarin Chinese, Polish and German which I'm still working on.
 
 ### My best puzzle so far...
 
